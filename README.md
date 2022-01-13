@@ -1,4 +1,4 @@
-# wallhavenDownload4K
+# wallhavenDownload4K-单线程版
 https://wallhaven.cc/4k壁纸下载
 
 网站地址:https://wallhaven.cc/
